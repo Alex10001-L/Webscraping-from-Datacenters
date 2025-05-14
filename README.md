@@ -7,4 +7,6 @@ This project involves scraping data from datacenters.com, specifically focusing 
 5. Summary
 6. Country of Origin
 7. Facilities
-8. Certificates 
+8. Certificates
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Coding Language: Python
